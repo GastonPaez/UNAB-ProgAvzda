@@ -23,3 +23,12 @@ import requests
 resp = requests.get('https://www.google.com/')
 ```
 > La función devuelve un objeto Response, que en este caso se ha asignado a la variable resp, con toda la información de la respuesta.
+
+### Solicitud POST
+
+```
+import requests
+
+auth_data = {'email': 'prueba@mail.com', 'pass': '1234'}
+resp = requests.post('https://mipagina.xyz/login/', data=auth_data)
+```
