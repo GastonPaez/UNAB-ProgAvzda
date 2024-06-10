@@ -1,4 +1,4 @@
-## UNAB - PROGRAMACIÓN AVANZADA
+## UNAB - PROGRAMACIÓN AVANZADA - COMISION 2
 ### Docente: Felipe Morales
 ### Alumno: Gaston Paez
 
