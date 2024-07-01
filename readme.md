@@ -4,15 +4,23 @@
 
 >
 
-### Tema Elegido: 
+### Tema Elegido: Api de Geolocalizacion Nacional
 ### Requests - Envío de solicitudes HTTP
 
 
-> ### Trabajo Integrador
->1. El tema a desarrollar debe ser único (no repetirse con otros grupos). Grupos de hasta 3 integrantes!				
->2. Desarrollo de código fuente resolviendo un problema puntual (al menos 3 archivos + archivo readme.md)				
->3. Presentación en formato PPT (powerpoint) (13 slides mínimo incluyendo portada y temario)				
->4. Repositorio privado en GitHub (con invitación al profesor) con código fuente y documentación				
->5. Defensa del trabajo en forma virtual. Oportunamente el profesor definirá el criterio a utilizar				
->6. Presentación en público y defensa del trabajo en forma presencial				
+> ### COMO USAR - HOW TO USE
+>1. Clonar este repositoro 
+``` git clone https://github.com/GastonPaez/UNAB-ProgAvzda ```
+>2. Colocarse en la ruta dentro del repositorio			
+``` cd  "UNAB-ProgAvzda"```
+>3. Si quieren instalar un etorno virtual continua sino saltea al paso 7			
+>4. ``` python -m venv venv ```			
+>5. ``` cd venv/Script ```			
+>6. ``` cd ../.. ```
+>7. ``` pip install -r requirements.txt ```
+>8. Ya tenemos la libreria de python instalada, ahora solo debemos correr el programa main.
+>9. ``` python main.py ```
+
+
+
 
